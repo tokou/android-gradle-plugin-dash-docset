@@ -12,3 +12,5 @@ Tested on Mac OS X, requires ruby and sqlite3 gem
 ```
 ./android-gradle-plugin-dash-docset.rb
 ```
+
+See also [Android KTX Dash Docset](https://github.com/tokou/android-ktx-dash-docset)
